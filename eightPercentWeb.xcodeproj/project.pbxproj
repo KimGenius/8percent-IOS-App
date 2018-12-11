@@ -7,19 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		518232C221BF38580087A211 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 518232C121BF38580087A211 /* Images.xcassets */; };
 		518C27EE21BE552700C54644 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518C27ED21BE552700C54644 /* AppDelegate.swift */; };
 		518C27F021BE552700C54644 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518C27EF21BE552700C54644 /* ViewController.swift */; };
 		518C27F321BE552700C54644 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 518C27F121BE552700C54644 /* Main.storyboard */; };
-		518C27F521BE552800C54644 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 518C27F421BE552800C54644 /* Assets.xcassets */; };
+		518C27F521BE552800C54644 /* favicon_new.ico in Resources */ = {isa = PBXBuildFile; fileRef = 518C27F421BE552800C54644 /* favicon_new.ico */; };
 		518C27F821BE552800C54644 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 518C27F621BE552800C54644 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		518232C121BF38580087A211 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		518C27EA21BE552700C54644 /* eightPercentWeb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eightPercentWeb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		518C27ED21BE552700C54644 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		518C27EF21BE552700C54644 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		518C27F221BE552700C54644 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		518C27F421BE552800C54644 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		518C27F421BE552800C54644 /* favicon_new.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; name = favicon_new.ico; path = ../../../../../Desktop/favicon_new.ico; sourceTree = "<group>"; };
 		518C27F721BE552800C54644 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		518C27F921BE552800C54644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,9 +59,10 @@
 				518C27ED21BE552700C54644 /* AppDelegate.swift */,
 				518C27EF21BE552700C54644 /* ViewController.swift */,
 				518C27F121BE552700C54644 /* Main.storyboard */,
-				518C27F421BE552800C54644 /* Assets.xcassets */,
+				518C27F421BE552800C54644 /* favicon_new.ico */,
 				518C27F621BE552800C54644 /* LaunchScreen.storyboard */,
 				518C27F921BE552800C54644 /* Info.plist */,
+				518232C121BF38580087A211 /* Images.xcassets */,
 			);
 			path = eightPercentWeb;
 			sourceTree = "<group>";
@@ -123,7 +126,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				518C27F821BE552800C54644 /* LaunchScreen.storyboard in Resources */,
-				518C27F521BE552800C54644 /* Assets.xcassets in Resources */,
+				518232C221BF38580087A211 /* Images.xcassets in Resources */,
+				518C27F521BE552800C54644 /* favicon_new.ico in Resources */,
 				518C27F321BE552700C54644 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
